@@ -1,0 +1,7 @@
+Monday: 1000 
+Tuesday: 2000 
+Wednesday: 1000 
+Thursday: 4000 
+Friday: 5000 
+Saturday: 3000 
+Sunday: 1000 
